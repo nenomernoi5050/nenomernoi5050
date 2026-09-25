@@ -18,7 +18,7 @@
 | [Automated IVR Pipeline](https://github.com/nenomernoi5050/ivr-notification-case-study) | TTS, Asterisk, DTMF, retry/state machine и Telegram-мониторинг | Architecture case study |
 | [Rental Operations Platform](https://github.com/nenomernoi5050/rental-operations-case-study) | Django/DRF, React, PostgreSQL, карта и синхронизация доступности | Architecture case study |
 | [Document Intake API](https://github.com/nenomernoi5050/document-intake-api) | FastAPI-сервис нормализации, классификации и извлечения полей из входящих документов; тесты и CI | Runnable code sample |
-| [DiskScope](https://github.com/nenomernoi5050/diskscope-cpp) | Read-only поиск маркеров в документах, offline Registry hives и остатках удалённых данных по полному образу диска; C++17, CMake и тесты | Runnable system tool |
+| [DiskScope](https://github.com/nenomernoi5050/diskscope-cpp) | C++17 forensic scanner для расследования утечек и попыток скрыть следы: документы, offline Registry hives, удалённые и частично перезаписанные данные | Runnable system tool |
 | [AIPay](https://github.com/nenomernoi5050/aipay-demo) | Адаптивный продуктовый UI и цельный пользовательский сценарий | Product UI prototype |
 | [Yakarta.pro](https://github.com/nenomernoi5050/yakarta-case-study) | Проектирование, разработка, публикация и сопровождение коммерческого сайта | Live production case |
 
