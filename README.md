@@ -4,7 +4,7 @@
 
 Разрабатываю внутренние сервисы, API-интеграции и автоматизацию бизнес-процессов на Django/FastAPI, PostgreSQL и Docker. Интегрирую CRM, Telegram, внешние API, Playwright и LLM.
 
-В одном из последних проектов собрал датасет из 98 000+ документов и 15+ парсеров, интегрировал локальную LLM через FastAPI и сократил первичную обработку на 30%, высвободив около 6 часов ручной работы в неделю.
+В одном из последних контуров обработки из ~99 000 сырых JSON-артефактов подготовил 98 000+ пригодных документов; конвейер локальной LLM-аугментации сформировал ~37 000 производных артефактов. Также разработал 15+ парсеров и сократил первичную обработку на 30%, высвободив около 6 часов ручной работы в неделю.
 
 [Портфолио](https://nenomernoi5050.github.io/) · [Email](mailto:nenomernoi2020@gmail.com)
 
@@ -13,6 +13,7 @@
 | Проект | Что показывает | Статус |
 |---|---|---|
 | [LeadHunter AI](https://github.com/nenomernoi5050/leadhunter-ai-portfolio) | FastAPI, React, PostgreSQL, Playwright, CRM-процессы и локальные LLM | Sanitized case study |
+| [Local LLM Training Lab](https://github.com/nenomernoi5050/local-llm-training-lab) | RuBERT train/eval scaffold, PEFT/LoRA notes, локальная LLM-аугментация, checkpoint recovery, retry и dedup | Runnable augmentation + ML scaffold |
 | [Document Workflow Automation](https://github.com/nenomernoi5050/document-workflow-case-study) | Асинхронный сбор, идемпотентный RPA, регистрация и доставка документов | Architecture case study |
 | [Automated IVR Pipeline](https://github.com/nenomernoi5050/ivr-notification-case-study) | TTS, Asterisk, DTMF, retry/state machine и Telegram-мониторинг | Architecture case study |
 | [Rental Operations Platform](https://github.com/nenomernoi5050/rental-operations-case-study) | Django/DRF, React, PostgreSQL, карта и синхронизация доступности | Architecture case study |
